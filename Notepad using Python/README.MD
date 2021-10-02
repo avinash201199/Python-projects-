@@ -8,8 +8,11 @@
    1. Type the text
    2. Save the file as .txt only (you may change it to any file type, check [here]() how to do it)
 2. Different look of dark theme.
+3. No module to install. tkinter is already installed with Python.
 
-:warning: Never put the output in full screen mode.
+:warning: Never put the output tkinter screen in full screen mode.
+
+⚛️ Recommended IDE is PyCharm Community.
 
 # How to change savefileextension
 
