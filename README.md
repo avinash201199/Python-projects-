@@ -1,4 +1,4 @@
-# Are you excited to contribute to Python Projects under Hacktoberfest2021? 😍
+# Are you excited to contribute to Python Projects  😍
 
 
 
