@@ -1,6 +1,6 @@
 # Are you excited to contribute to Python Projects under Hacktoberfest2021? 😍
 
-![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/59393136/135513229-89dbc17d-09fc-4dee-90a7-9ec26e4c9e3f.png)
+
 
 ### How to contribute 😎<br>
 
