@@ -4,7 +4,6 @@
 
 ### How to contribute 😎<br>
 
-❌ Note : don't create more than 2 issue's on a single day. <br>
 ❌ Note : don't make pull request unless you are assigned with the issue.<br>
 ❌ Note : while making pull request add issue number with # (for example #78)
 
