@@ -27,5 +27,6 @@ You can also contribute to this repository by improving documention or any mista
 
 Follow me on Github - https://github.com/avinash201199 <br>
 Contact me for any doubt -https://www.instagram.com/lets__code/ <br>
+<br>
 
-THANK YOU FOR YOUR CONTRIBUTIONS. 
+THANK YOU FOR YOUR CONTRIBUTIONS. 💫
