@@ -20,7 +20,7 @@
 * Create separate folder for your project.
 * Then add your files wiht README.MD
 * In README.MD describe about the project and the process to contribute in your project.
-* For examle see [this](https://github.com/avinash201199/Python-projects-/tree/main/Among_Us)
+* For example see [this](https://github.com/avinash201199/Python-projects-/tree/main/Among_Us)
 * Then make pull request and wait for review.
 
 You can also contribute to this repository by improving documention or any mistakes/errors. <br>
