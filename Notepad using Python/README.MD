@@ -6,7 +6,7 @@
 
 1. Can do following functionalities:
    1. Type the text
-   2. Save the file as .txt only (you may change it to any file type, check [here]() how to do it)
+   2. Save the file as .txt only (you may change it to any file type, check below how to do it)
 2. Different look of dark theme.
 3. No module to install. tkinter is already installed with Python.
 
