@@ -23,4 +23,4 @@
 
 # Author:
 
-[Nitin Kumar](https://github/com/nitinkumar30/)
+[Nitin Kumar](https://github.com/nitinkumar30/)
