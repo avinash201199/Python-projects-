@@ -1,4 +1,4 @@
-# Are you excited to contribute to Python Projects  😍
+﻿# Are you excited to contribute to Python Projects  😍
 
 
 
@@ -25,8 +25,7 @@
 
 You can also contribute to this repository by improving documention or any mistakes/errors. <br>
 
-Follow me on Github - https://github.com/avinash201199 <br>
-Contact me for any doubt -https://www.instagram.com/lets__code/ <br>
-<br>
-
-THANK YOU FOR YOUR CONTRIBUTIONS. 💫
+For any doubt contact and follow me here: - <br>
+[<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
+<br>(Must Check My Github for more cool stuff !)<br>
+<h2><p align= "center">THANK YOU FOR YOUR CONTRIBUTIONS. 💫</p></h2>
