@@ -38,4 +38,4 @@ b. It also checks if current time matches the alarm time. As soon as time matche
 
 ### Python Alarm Clock Project Output
 
-<img src="alarmclockoutput.png" align="center" />
+<img src="alarm-clock-output.jpg" align="left" />
