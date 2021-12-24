@@ -9,5 +9,17 @@
 
 ### 1. Install Tkinter:
 Tkinter is a standard graphical user interface library that is available for python. You need to install Tkinter to begin the project. 
-Write the command given below to install Tkinter on your system.
+Write the command given below to install Tkinter on your system.<br>
 `pip install tkinter`
+
+### 2. Importing Libraries:
+`from words import words
+from tkinter import *
+import random
+from tkinter import messagebox`
+
+### Code Explanation:
+
+a. words: words is another file that contains a list of words that will be displayed on the screen.<br>
+b. random: It helps in generating random strings and numbers.<br>
+c. messagebox: It helps in displaying a message box on the screen.<br>
