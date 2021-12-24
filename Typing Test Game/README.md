@@ -13,10 +13,10 @@ Write the command given below to install Tkinter on your system.<br>
 `pip install tkinter`
 
 ### 2. Importing Libraries:
-`from words import words <br>
-from tkinter import *<br>
-import random <br>
-from tkinter import messagebox`
+`from words import words`
+`from tkinter import *`
+`import random` 
+`from tkinter import messagebox`
 
 ### Code Explanation:
 
