@@ -10,4 +10,4 @@
 ### 1. Install Tkinter:
 Tkinter is a standard graphical user interface library that is available for python. You need to install Tkinter to begin the project. 
 Write the command given below to install Tkinter on your system.
-`pip install tkinter
+`pip install tkinter`
