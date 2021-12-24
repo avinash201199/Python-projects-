@@ -108,4 +108,4 @@ wordentry.place(x=250,y=330)
 wordentry.focus_set()
 
 Mainscreen.bind('<Return>',game)
-mainloop()
+mainloop() 
