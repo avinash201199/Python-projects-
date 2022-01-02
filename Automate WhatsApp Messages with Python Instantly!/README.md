@@ -18,13 +18,8 @@ open a terminal in the code editor window and paste the following code <br>
 
 ### 3. Type in the following code 
 
-`#import the downloaded library in python 
-import pywhatkit 
-#pywhatkit.sendwhatmsg():Runs a function from the imported library
-pywhatkit.sendwhatmsg("+9185000000", "avinash",23,5)
+![image](https://user-images.githubusercontent.com/61057666/147883823-389ceb2b-cd92-4af1-9358-057b82034123.png)
 
-#syntax: pywhatkit.sendwhatmsg("reciver no. with country code",
-# message, hours, minutes)`
 
 Run the code, and you will find a message saying something like this: <br>
 `In 50 seconds, web.WhatsApp.com will open, and after 20 seconds, a message will be delivered by Whatsapp.`
