@@ -24,7 +24,7 @@ import pywhatkit
 pywhatkit.sendwhatmsg("+9185000000", "avinash",23,5)
 
 #syntax: pywhatkit.sendwhatmsg("reciver no. with country code",
-# message, hours, minutes) `
+# message, hours, minutes)`
 
 Run the code, and you will find a message saying something like this: <br>
 `In 50 seconds, web.WhatsApp.com will open, and after 20 seconds, a message will be delivered by Whatsapp.`
